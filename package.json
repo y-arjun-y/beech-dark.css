@@ -1,6 +1,6 @@
 {
   "name": "beech-dark.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The dark version of beech.css, a classless CSS theme that makes your website easy on the eyes!",
   "main": "style.css",
   "scripts": {
